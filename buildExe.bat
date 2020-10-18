@@ -1,1 +1,1 @@
-pyinstaller --icon=windowsUpdateLogo.ico -w --hidden-import cv2 -F app.py 
+pyinstaller --icon=windowsUpdateLogo.ico --hidden-import cv2 -F app.py 
